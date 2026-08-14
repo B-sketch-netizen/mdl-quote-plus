@@ -5,6 +5,8 @@
 // @description  Fast inline defect photos and remark editing for Uptick quote pages.
 // @author       MDL
 // @match        *://*.onuptick.com/quoting/*
+// @updateURL    https://raw.githubusercontent.com/B-sketch-netizen/mdl-quote-plus/main/mdl-quote-plus.user.js
+// @downloadURL  https://raw.githubusercontent.com/B-sketch-netizen/mdl-quote-plus/main/mdl-quote-plus.user.js
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
