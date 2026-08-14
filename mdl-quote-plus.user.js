@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MDL Quote+
 // @namespace    mdl.quote.plus
-// @version      2.0.0
+// @version      2.0.1
 // @description  Fast inline defect photos and remark editing for Uptick quote pages.
 // @author       MDL
 // @match        *://*.onuptick.com/quoting/*
